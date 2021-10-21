@@ -3,6 +3,10 @@ package br.dp.observer;
 import br.dp.observer.domains.Netflix;
 import br.dp.observer.domains.Subscriber;
 
+/**
+ * @author Lucas Rodrigues
+ * @since 2021/10/21
+ */
 public class Application {
 
 	public static void main(String[] args) {

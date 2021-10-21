@@ -6,6 +6,10 @@ import java.util.List;
 import br.dp.observer.events.ObserverManager;
 import br.dp.observer.events.SubjectManager;
 
+/**
+ * @author Lucas Rodrigues
+ * @since 2021/10/21
+ */
 public class Netflix implements SubjectManager{
 
 	

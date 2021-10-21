@@ -3,6 +3,10 @@ package br.dp.observer.events;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * @author Lucas Rodrigues
+ * @since 2021/10/21
+ */
 public interface SubjectManager {
 
 	
